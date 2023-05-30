@@ -1,0 +1,52 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_managed_ref
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_UIApplicationMain
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/iPhone/Debug/device-builds/iphone14.3-16.4.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

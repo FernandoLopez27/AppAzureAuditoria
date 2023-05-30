@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/AppAzureAuditoria.csproj": {}
+  },
+  "projects": {
+    "/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/AppAzureAuditoria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/AppAzureAuditoria.csproj",
+        "projectName": "AppAzureAuditoria",
+        "projectPath": "/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/AppAzureAuditoria.csproj",
+        "packagesPath": "/Users/fernandolopez/.nuget/packages/",
+        "outputPath": "/Users/fernandolopez/Projects/AppAzureAuditoria/AppAzureAuditoria/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/fernandolopez/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Json": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

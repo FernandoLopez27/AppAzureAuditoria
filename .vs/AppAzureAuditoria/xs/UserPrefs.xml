@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{52A34896-9448-4D5D-822B-82A46F4A39A3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppAzureAuditoria/ViewController.cs">
+    <Files>
+      <File FileName="AppAzureAuditoria/ViewController.cs" Line="74" Column="1" />
+      <File FileName="AppAzureAuditoria/DetalleController.cs" />
+      <File FileName="AppAzureAuditoria/CeldaController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppAzureAuditoria" expanded="True">
+            <Node name="AppAzureAuditoria" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppAzureAuditoria PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.Generic" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
